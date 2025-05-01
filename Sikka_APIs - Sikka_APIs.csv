@@ -1,0 +1,94 @@
+API Name,Description,API Endpoints,Document Link
+appointments,Returns appointments data from practice,https://api.sikkasoft.com/v4/appointments,https://apidocs.sikkasoft.com/#cc4375ec-0b6a-442f-846c-16fb138cd794
+appointments_available_slots,Returns available appointments slots from practice.,https://api.sikkasoft.com/v4/appointments_available_slots,https://apidocs.sikkasoft.com/#6b18ec4a-cfec-4a69-976d-678d2bfb0fe4
+accounts_receivables,Returns account receivables details from practice,https://api.sikkasoft.com/v4/accounts_receivables,https://apidocs.sikkasoft.com/#fcb005b7-b9ce-4c24-b585-64dd30b4a7fc
+accounts_receivables_by_patients,Returns account receivables details by patients from practice,https://api.sikkasoft.com/v4/accounts_receivables_by_patients,https://apidocs.sikkasoft.com/#3ae94fe1-4b24-4e96-b227-808da170b6c5
+patients,Returns list of patients in practice,https://api.sikkasoft.com/v4/patients,https://apidocs.sikkasoft.com/#67aa35de-a4d4-47b7-919f-1b58ebc75073
+patient_extended_info,Returns list of patients with extended information from practice,https://api.sikkasoft.com/v4/patient_extended_info,https://apidocs.sikkasoft.com/#cce5e324-cf78-4967-a96f-28aea3af1096
+veterinary_patients,Returns list of patients in practice,https://api.sikkasoft.com/v4/veterinary_patients,https://apidocs.sikkasoft.com/#cc48ea30-25df-4a74-8fb6-eb208d70a4c2
+practices,Return list of all practices,https://api.sikkasoft.com/practices,https://apidocs.sikkasoft.com/#8dbb534a-d5bc-4303-aed4-33518138e6cb
+transactions,Returns transactions data from practice,https://api.sikkasoft.com/v4/transactions,https://apidocs.sikkasoft.com/#2b349abb-d318-4dec-9cf8-993e03d80876
+guarantors,Returns guarantors data from practice,https://api.sikkasoft.com/v4/guarantors,https://apidocs.sikkasoft.com/#5f45a4bd-a0c2-4ae2-a2c3-85c076af8fe6
+contact_details,Returns contact details of patients from practice,https://api.sikkasoft.com/v4/contact_details,https://apidocs.sikkasoft.com/#a2a1a286-4535-49bf-8f2d-3adf0741a816
+providers,Returns provider details from practice,https://api.sikkasoft.com/v4/providers,https://apidocs.sikkasoft.com/#236b3d2b-6608-43e4-bfa0-7087c5e871b6
+guarantors_v2,Returns guarnators details from practice,https://api.sikkasoft.com/v4/guarantors_v2,https://apidocs.sikkasoft.com/#5f593c4e-3de0-469e-ab67-fb27f19d7018
+practice_variables,"Returns practice variables like appointment status , patient status from practice",https://api.sikkasoft.com/v4/practice_variable,https://apidocs.sikkasoft.com/#29c44269-d5b4-4c2c-bfa3-73fd15b826f6
+claims,Returns claim details from practice,https://api.sikkasoft.com/v4/claims,https://apidocs.sikkasoft.com/#9ed6fc05-1aa1-4ef2-a695-b30eae5aa678
+treatment_plans,Returns treatment plans data from practice,https://api.sikkasoft.com/v4/treatment_plans,https://apidocs.sikkasoft.com/#b8852354-7080-4aaa-b3a5-cd77895e57af
+insurance_accounts_receivables,Returns insurance accounts receivables data from practice,https://api.sikkasoft.com/v4/insurance_accounts_receivables,https://apidocs.sikkasoft.com/#9db4cd87-4075-4cdc-9975-6cc2ca9663a3
+insurance_companies,Returns insurance company detail from practice,https://api.sikkasoft.com/v4/insurance_companies,https://apidocs.sikkasoft.com/#4e6c1453-26a2-4714-a357-39da28064b10
+procedure_codes,Returns procedure codes data from practice,https://api.sikkasoft.com/v4/procedure_codes,https://apidocs.sikkasoft.com/#3c85b436-cad5-45cd-8854-a04744f73b86
+payment_types,Returns payment types from practice,https://api.sikkasoft.com/v4/payment_types,https://apidocs.sikkasoft.com/#08f75d99-5043-4f12-90a3-134acdf404f6
+payment_plans,Returns payment plans data from practice if practice management system storing payment plans,https://api.sikkasoft.com/v4/payment_plans,https://apidocs.sikkasoft.com/#53518438-54e5-4769-ba41-f7308a5f6bf7
+reminders,Returns reminders data from practice. If remidners has been automatic setup in practice management system.,https://api.sikkasoft.com/v4/reminders,https://apidocs.sikkasoft.com/#719bdd16-3706-4f77-9b6c-8fa271f787f0
+patient_contract_roll_charges,Returns patient contracts roll charges data from practice,https://api.sikkasoft.com/v4/patient_contract_roll_charges,https://apidocs.sikkasoft.com/#83b43108-fabb-4ab8-9978-a8f69faf2e23
+patient_contracts,Returns patient contract data from practice,https://api.sikkasoft.com/v4/patient_contracts,https://apidocs.sikkasoft.com/#3a18d76f-5a50-4a4f-b7c8-30c837e19eea
+fee_schedules,Returns fee scheudle data from practice,https://api.sikkasoft.com/v4/fee_schedules,https://apidocs.sikkasoft.com/#e691a861-62e3-4350-bf34-6512a312c7ad
+referrals,Returns appointments data from practice,https://api.sikkasoft.com/v4/referrals,https://apidocs.sikkasoft.com/#1c04a970-ad0c-4b80-a9d4-6407543bca5d
+appointment_statuses,Returns appointments status data from practice,https://api.sikkasoft.com/v4/appointment_statuses,https://apidocs.sikkasoft.com/#f148bf1f-f60d-40e9-a1d4-b317db33dd3c
+perio_charts,Returns perio charts data from practice,https://api.sikkasoft.com/v4/perio_charts,https://apidocs.sikkasoft.com/#df71529a-d7dd-4cc6-9680-35bd86420e0e
+patient_statuses,Returns patient status data from practice,https://api.sikkasoft.com/v4/patient_statuses,https://apidocs.sikkasoft.com/#f133f72f-e50a-484d-bc24-ebb7969d255d
+patient_status_history,Returns patient status history data from practice,https://api.sikkasoft.com/v4/patient_status_history,https://apidocs.sikkasoft.com/#5385aa9d-a110-4a08-b051-b6d63f8d745d
+clinical_conditions,Returns clinical conditions data including status and tooth surface from practice,https://api.sikkasoft.com/v4/clinical_conditions,https://apidocs.sikkasoft.com/#4a1898ea-c62e-4812-8c7a-5a044a5a28f4
+clinical_note_templates,"Returns clinical note templates data including template name, category and prompts from practice",https://api.sikkasoft.com/v4/clinical_note_templates,https://apidocs.sikkasoft.com/#1ef7f804-4a22-4beb-be37-79154bdef306
+guarantor_accounts,Returns guarantor accounts details from practice,https://api.sikkasoft.com/v4/guarantor_accounts,https://apidocs.sikkasoft.com/#87c6b544-604d-43fc-b154-71889bc804e4
+insurance_company_details,Returns insurnace company details from practice,https://api.sikkasoft.com/v4/insurance_company_details,https://apidocs.sikkasoft.com/#c78eb0c1-82c4-495c-b24a-6f0161528206
+treatment_plan_statuses,Returns treatment plans status data from practice,https://api.sikkasoft.com/v4/treatment_plan_statuses,https://apidocs.sikkasoft.com/#0a018d60-4fe3-455a-b4c0-d52783584941
+prescriptions,Returns prescriptions data from practice,https://api.sikkasoft.com/v4/prescriptions,https://apidocs.sikkasoft.com/#8ef5e404-fdc4-42a3-9c74-fbb32df03626
+insurance_plan_coverage,Returns insurance plan and coverage data from practice,https://api.sikkasoft.com/v4/insurance_plan_coverage,https://apidocs.sikkasoft.com/#9eb700ba-510e-4b3d-85b8-1c954a971cdd
+employers,Returns employers data from practice,https://api.sikkasoft.com/v4/employers,https://apidocs.sikkasoft.com/#c716d263-2937-4d92-a421-3e5a1bd3532d
+drugs,Returns drugs data from practice,https://api.sikkasoft.com/v4/drugs,https://apidocs.sikkasoft.com/#6c88fd9b-cf27-4ee9-8607-f89b26c41656
+claim_descriptions,Returns claims data from practice,https://api.sikkasoft.com/v4/claim_descriptions,https://apidocs.sikkasoft.com/#d119bc8a-2924-44fe-9ccd-51cb4469bf5a
+insurance_estimate,Returns insurance estimate data from practice,https://api.sikkasoft.com/v4/insurance_estimate,https://apidocs.sikkasoft.com/#01d64784-8122-4742-a025-5001471631b8
+lab_cases,Returns lab cases data from practice,https://api.sikkasoft.com/v4/lab_cases,https://apidocs.sikkasoft.com/#80cd43f1-3ad3-4c4c-acb7-6ad003aed936
+lab_details,Returns lab details from practice,https://api.sikkasoft.com/v4/lab_details,https://apidocs.sikkasoft.com/#cc19bc45-d548-4559-bd1f-b3d0cf39dddd
+lab_panels,Returns lab panels information from practice,https://api.sikkasoft.com/v4/lab_panels,https://apidocs.sikkasoft.com/#3558325f-63d3-4f4b-84ef-4b750f3379b0
+lab_profiles,Returns lab profiles information from practice management system,https://api.sikkasoft.com/v4/lab_profiles,https://apidocs.sikkasoft.com/#a441636c-cc57-43fe-a3ef-d7631bb7336b
+lab_sub_profiles,Returns lab sub profiles information from practice management system,https://api.sikkasoft.com/v4/lab_sub_profiles,https://apidocs.sikkasoft.com/#61641097-b63e-4f1e-982a-0e3ec75308b4
+lab_profile_invoice_items,Returns lab profile invoice items information from practice management system,https://api.sikkasoft.com/v4/lab_profile_invoice_items,https://apidocs.sikkasoft.com/#9666ecad-cef6-483a-a924-970c5e5a46f1
+lab_requests,Returns lab requests information from practice management system,https://api.sikkasoft.com/v4/lab_requests,https://apidocs.sikkasoft.com/#0847c607-38fb-4dd6-bc98-1a5ea8cf1a08
+medical_history,Returns patient medical history from practice,https://api.sikkasoft.com/v4/medical_history,https://apidocs.sikkasoft.com/#f4130d94-1c90-4846-befb-69bff5796102
+shelter_patients,Returns shelter patients data from practice ( applicable to veterinary practices. Shelter pets referred as patients here),https://api.sikkasoft.com/v4/shelter_patients,https://apidocs.sikkasoft.com/#8dee5feb-1826-429f-b26e-b3a39e7a0eec
+subscribers,Returns subsribers data from practice,https://api.sikkasoft.com/v4/subscribers,https://apidocs.sikkasoft.com/#4427a4db-e78b-4067-94cd-2a60c94809a4
+treatment_plan_phases,Returns treatment plan phases information from practice,https://api.sikkasoft.com/v4/treatment_plan_phases,https://apidocs.sikkasoft.com/#3c921047-fb30-4075-9313-9035ef7a9523
+vendors,Returns vendors data from practice (applicable to veterinary),https://api.sikkasoft.com/v4/vendors,https://apidocs.sikkasoft.com/#6689c6c4-04a8-41a5-b3c2-a0a66d00768c
+veterinary_clinics,Returns veterinary clinic information,https://api.sikkasoft.com/v4/veterinary_clinics,https://apidocs.sikkasoft.com/#064df785-5b38-4651-a988-7cc067b9d80e
+insurance_eligibility,Returns insurance eligibility,https://api.sikkasoft.com/v4/insurance_eligibility,https://apidocs.sikkasoft.com/#9bd3c454-6d13-439f-8ed3-8e5f0b6e1e6e
+optometry_product_details,Return the list of optometry products,https://api.sikkasoft.com/v4/optometry_product_details?fields=get_all,https://apidocs.sikkasoft.com/#2fa2205e-a074-4cb4-a0cd-de387816b271
+lab_test_details,Return the lab test details,https://api.sikkasoft.com/v4/lab_test_details?category=labname,https://apidocs.sikkasoft.com/#11f22881-500b-4dc0-bb65-07fd165e7889
+patient_documents_display,Return patient documents stored in practice management systems. You can download actual document from link provided in API response. Link will be valid 24 hours.,https://api.sikkasoft.com/v4/patient_documents_display,https://apidocs.sikkasoft.com/#a41a6e35-04d0-46bd-8357-8e72a376e22e
+patient_balance,Return patient balance from practice management systems.,https://api.sikkasoft.com/v4/patient_balance,https://apidocs.sikkasoft.com/#f24e3b18-ddee-48c5-a44e-79dbc281ffa7
+suspended_credit_transactions,Return patient's suspended credit transactions balance from practice management systems.,https://api.sikkasoft.com/v4/suspended_credit_transactions,https://apidocs.sikkasoft.com/#21813ac3-7bc6-4e4d-91de-61024da2dbe9
+preregistered_appointments,"Return incoming or referral patient information, before they are actually added as an official patient.",https://api.sikkasoft.com/v4/preregistered_appointments,https://apidocs.sikkasoft.com/#3ddebff6-40ab-4ce7-b72b-01fb0e2e1df8
+preregistered_patients,"Return incoming or referral patient information, before they are actually added as an official patient.",https://api.sikkasoft.com/v4/preregistered_patients,https://apidocs.sikkasoft.com/#286c6ad1-2dd5-4e95-b83e-217fdf18ee3a
+guarantor_patient_mapping,Returns guarantors details associated with patient,https://api.sikkasoft.com/v4/guarantor_patient_mapping,https://apidocs.sikkasoft.com/#3d31da06-326a-4a5b-816f-bceba37ad9c1
+patient_addresses,Returns patient address details,https://api.sikkasoft.com/v4/patient_addresses,https://apidocs.sikkasoft.com/#23998fcc-c429-43a7-814d-ca5809a82399
+patient_charts,"Returns patient charts details with surface, chart date and tooth number.",https://api.sikkasoft.com/v4/patient_charts,https://apidocs.sikkasoft.com/#e34933c7-81bc-42d5-a108-a0fbc3ceb3e2
+many_guarantors_one_patient,Returns guarantors details associated with patient,https://api.sikkasoft.com/v4/many_guarantors_one_patient,https://apidocs.sikkasoft.com/#92b50c05-0517-4e0a-8214-86a58c30f4d2
+provider_mapping,Returns provider mapping,https://api.sikkasoft.com/v4/provider_mapping,https://apidocs.sikkasoft.com/#ebfa354c-1edc-434d-8921-340996cebbcc
+authorized_practices,This API will give you the list of practices from which you can access data,https://api.sikkasoft.com/v4/authorized_practices,https://apidocs.sikkasoft.com/#e6385d30-cfdc-43fb-ab01-6b592c047173
+applications,Returns your application details.,https://api.sikkasoft.com/v4/applications,https://apidocs.sikkasoft.com/#3ea74ba0-e640-4521-a4ca-e7086b2fea3d
+animal_vital_signs,Returns vital signs details of pat. This API is for veterinary practices.,https://api.sikkasoft.com/v4/animal_vital_signs,https://apidocs.sikkasoft.com/#a5d54b8f-be66-460b-b6b3-d6469078477f
+practice_schedule,Returns practice schedule details.,https://api.sikkasoft.com/v4/practice_schedule,https://apidocs.sikkasoft.com/#517d3041-3e21-40df-b3d8-9bdda5d1abb7
+veterinary_product_details,Returns product details for veterinary practice.,https://api.sikkasoft.com/v4/veterinary_product_details,https://apidocs.sikkasoft.com/#49936fcd-a37a-47a5-8aef-9bbc0ec46b03
+products,Returns product list. This API is for veterinary practices.,https://api.sikkasoft.com/v4/products,https://apidocs.sikkasoft.com/#83f778a5-481a-4b3c-b13c-9a2bbee71813
+practice_resources,Return practice resources.,https://api.sikkasoft.com/v4/practice_resources,https://apidocs.sikkasoft.com/#dba51927-5c71-4784-b73d-054d184856ed
+veterinary_product_inventory,Returns product inventory for the veterinary practices.,https://api.sikkasoft.com/v4/veterinary_product_inventory,https://apidocs.sikkasoft.com/#58b3bf55-871e-4a0e-9631-7932955c5ab4
+lab_results,Returns lab results details. This API is for veterinary practices.,https://api.sikkasoft.com/v4/lab_results,https://apidocs.sikkasoft.com/#f1ab39d9-b621-4621-af26-4517c7668c26
+hearing_aid_products,Returns product list for hearing care.,https://api.sikkasoft.com/v4/hearing_aid_products,https://apidocs.sikkasoft.com/#ca9e933a-52aa-4a06-937e-7072aa8fae1f
+hearing_care_product_details,Returns product details for hearing care.,https://api.sikkasoft.com/v4/hearing_care_product_details,https://apidocs.sikkasoft.com/#185831f3-1372-42b7-9245-d84b075e169e
+manufacturers,Return manufactures details with contact details.,https://api.sikkasoft.com/v4/manufacturers,https://apidocs.sikkasoft.com/#f062260e-2ddb-48da-9f5c-20b862ad9694
+pending_procedures,Returns pending procedures for the patient with available balance data from practice,https://api.sikkasoft.com/v4/pending_procedures,https://apidocs.sikkasoft.com/#9086881d-f5cc-4435-93fe-1ed8dec926ce
+operatories,Returns operatories available in practice.,https://api.sikkasoft.com/v4/operatories,https://apidocs.sikkasoft.com/#664a5d7e-a51b-4e37-95dd-a9bba44432aa
+patient360,"Returns patient details with appointments, transactions, claims, treatment plans. You can get patient 360 details available in the practice using this API.",https://api.sikkasoft.com/v4/patient360,https://apidocs.sikkasoft.com/#9086881d-f5cc-4435-93fe-1ed8dec926ce
+xrays,Returns patient xray details.,https://api.sikkasoft.com/v4/xrays,https://apidocs.sikkasoft.com/#f8e6caef-6315-4f32-80fb-05efd551c8d5
+kpis,A key performance indicator (KPI) is a business metric used to evaluate factors that are crucial to the success of an organization.KPIs give you unique views of practice data that lead to action items to drive increased revenue and save valuable practice time.,https://api.sikkasoft.com/v4/kpis,https://apidocs.sikkasoft.com/#033c595a-15bb-4f52-91b2-cebff8c7cfc3
+kpis details,A key performance indicator (KPI) is a business metric used to evaluate factors that are crucial to the success of an organization. KPIs give you unique views of practice data that lead to action items to drive increased revenue and save valuable practice time.,https://api.sikkasoft.com/v4/kpis?kpi_name&practice_id&startdate&enddate,https://apidocs.sikkasoft.com/#6ac954e1-f007-4b18-b716-9ad9b4abde44
+finance/balances,Returns balance details data from practice's finance system.,https://api.sikkasoft.com/v4/finance/balances,https://apidocs.sikkasoft.com/#30fb7a8d-eb9e-4f31-a5d7-47b672758f69
+finance/payroll_details,Returns payroll details data from practice's finance system.,https://api.sikkasoft.com/v4/finance/payroll_details,https://apidocs.sikkasoft.com/#a7441fc6-677d-4fa8-8480-1e3b328f0784
+finance/employee,Returns employee details data from practice's finance system.,https://api.sikkasoft.com/v4/finance/employee,https://apidocs.sikkasoft.com/#1ded7081-bf8d-4b8a-b4c3-b0fc5a9aaba3
+finance/vendors,Returns vendors details from practice's finance system.,https://api.sikkasoft.com/v4/finance/vendors,https://apidocs.sikkasoft.com/#35fde5c6-c5db-4dfd-92d5-c7e1323c3ce0
+finance/budgets,Returns budgets details data from practice's finance system.,https://api.sikkasoft.com/v4/finance/budgets,https://apidocs.sikkasoft.com/#46a04714-cf69-4353-a78c-b111f61b2efd
+finance/customers,Returns customer details data from practice's finance system.,https://api.sikkasoft.com/v4/finance/customers,https://apidocs.sikkasoft.com/#c685cd84-0e5b-4dd0-858b-5e1eb521b1a3
+finance/accounts,Returns accounts data from practice's finance system,https://api.sikkasoft.com/v4/finance/accounts,https://apidocs.sikkasoft.com/#4cb180f4-0c2e-438e-ba93-db2f8b4548f9
+finance/transactions,Returns transaction details from practice's finance system.,https://api.sikkasoft.com/v4/finance/transactions,https://apidocs.sikkasoft.com/#3b10df23-07b9-4335-bbfb-78eae1393654

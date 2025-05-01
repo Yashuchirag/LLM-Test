@@ -1,0 +1,46 @@
+name: llm-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # Core Data & Utilities
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - tqdm
+  - scikit-learn
+  - ipykernel
+  - jupyter
+  - notebook
+
+  # Web & File Handling
+  - requests
+  - beautifulsoup4
+  - lxml
+  - pyyaml
+  - python-dotenv
+
+  # Dev Tools
+  - ipython
+  - rich
+  - black
+  - flake8
+  - isort
+
+  # Use pip for non-conda packages
+  - pip
+  - pip:
+      # LLM Stack
+      - langchain==0.1.14
+      - langchain-core==0.1.27
+      - langchain-community==0.0.19
+      - openai
+      - faiss-cpu
+      - sentence-transformers
+      - tiktoken
+
+      # Vector DB / RAG Support
+      - chromadb
+      - pinecone-client
